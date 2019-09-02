@@ -1,6 +1,6 @@
 # Traffic-Sign-Classification-Using-LeNet
 
-# Note : Due to large data files(Github cannot upload files > 100 MB), I have not uploaded the training data, testing data and Validation          data in my Github repository. To use the data files I have given the Google drive link for using the traing,testing and                    validation.
+# Note : Due to large data files(Github cannot upload files > 100 MB), I have not uploaded the training data, testing data and Validation data in my Github repository. To use the data files I have given the Google drive link for using the training,testing and validation.
 
 # Drive Link - https://drive.google.com/open?id=1UGthlUYJkD_6trG9NvU80c7i2AD2c3-O
 
